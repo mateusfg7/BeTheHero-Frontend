@@ -12,6 +12,9 @@
 <h3 align="center">
 
 _Front-end da aplicação 'Be The Hero', feita na Semana OmniStack 11 da [Rocketseat](https://rocketseat.com.br/)_
+</h3>
+<h3 align="center">
+
 _(23/03/20 a 27/03/20)_
 
 </h3>
