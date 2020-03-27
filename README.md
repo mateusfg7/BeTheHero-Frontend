@@ -7,10 +7,14 @@
 [![FRONT-END](https://img.shields.io/badge/FRONT--END-ReactJS-blue?style=flat-square)](https://github.com/mateusfg7/BeTheHero-Frontend)
 [![MOBILE](https://img.shields.io/badge/MOBILE-ReactNative-9cf?style=flat-square)](https://github.com/mateusfg7/BeTheHero-Mobile)
 
+</h1>
+
+<h2 align="center">
+
 _Front-end da aplicação 'Be The Hero', feita na Semana OmniStack 11 da [Rocketseat](https://rocketseat.com.br/)_
 _(23/03/20 a 27/03/20)_
 
-</h1>
+</h2>
 
 <h3 align="center">
 
@@ -22,13 +26,10 @@ Be The Hero (Seja um herói) é uma aplicação que conecta pessoas que tem vont
 
 ---
 
-<h3 align="center">
-
 **App feito com [React JS](https://reactjs.org/)**
 
 [![react-logo](https://bognarjunior.files.wordpress.com/2018/03/if_react-js_logo_1174949.png?w=256)](https://rocketseat.com.br/)
 
-</h3>
 
 ## Iniciar aplicação
 ```bash
