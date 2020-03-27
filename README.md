@@ -29,3 +29,14 @@ npm build
 
 Gerado com o comando `create-react-app`
 
+<h3 align="center">
+
+## Screenshots
+
+![Login](doc/login.png)
+![Cadastro](doc/cadastro.png)
+![Listar Casos](doc/lista_caso.png)
+![Cadastrar Caso](doc/cadastrar_caso.png)
+
+<h3>
+
