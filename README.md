@@ -29,8 +29,6 @@ Be The Hero (Seja um herói) é uma aplicação que conecta pessoas que tem vont
 
 **App feito com [React JS](https://reactjs.org/)**
 
-[![react-logo](https://digio.com.au/wp-content/uploads/2018/04/react-native-logo.png)
-
 
 ## Iniciar aplicação
 ```bash
