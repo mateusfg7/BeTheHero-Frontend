@@ -11,16 +11,20 @@
 
 <h3 align="center">
 
-_Front-end da aplicação 'Be The Hero', feita na Semana OmniStack 11 da [Rocketseat](https://rocketseat.com.br/)_
+Be The Hero (Seja um herói) é uma aplicação que conecta pessoas que tem vontade de ajudar ONGS doando um valor para tratar algum caso específico.
+
+</h3>
+<h4 align="center">
+
+_Front-end da aplicação, feita na **Semana OmniStack 11** da **Rocketseat**_
 
 _(23/03/20 a 27/03/20)_
 
 [TO-DO + Anotações](https://github.com/users/mateusfg7/projects/4)
 
-</h3>
-<h4 align="center">
+© [Rocketseat](https://rocketseat.com.br/)
 
-Be The Hero (Seja um herói) é uma aplicação que conecta pessoas que tem vontade de ajudar ONGS doando um valor para tratar algum caso específico.
+Instrutor: [Diego Fernandes](https://github.com/diego3g)
 </h4>
 
 ---
